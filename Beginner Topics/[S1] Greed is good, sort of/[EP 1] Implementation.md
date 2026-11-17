@@ -4,17 +4,17 @@ Implementation problems do not rely on the knowledge of any particular data stru
 <details>
 <summary>Problems</summary>
 <ul>
-    <li><a href="https://codeforces.com/problemset/problem/282/A">CF 282 A</a></li>
-    <li><a href="https://codeforces.com/problemset/problem/263/A">CF 263 A</a></li>
-    <li><a href="https://codeforces.com/problemset/problem/112/A">CF 112 A</a></li>
-    <li><a href="https://codeforces.com/problemset/problem/281/A">CF 281 A</a></li>
-    <li><a href="https://codeforces.com/problemset/problem/110/A">CF 110 A</a></li>
-    <li><a href="https://codeforces.com/problemset/problem/1030/A">CF 1030 A</a></li>
-    <li><a href="https://codeforces.com/problemset/problem/977/A">CF 977 A</a></li>
-    <li><a href="https://codeforces.com/problemset/problem/1201/A">CF 1201 A</a></li>
-    <li><a href="https://codeforces.com/contest/1157/problem/A">CF 1157 A</a></li>
-    <li><a href="https://codeforces.com/problemset/problem/466/A">CF 466 A</a></li>
-    <li><a href="https://codeforces.com/problemset/problem/999/C">CF 999 C</a></li>
+    <li><a href="https://codeforces.com/problemset/problem/282/A" target="_blank" rel="noopener noreferrer">CF 282 A</a></li>
+    <li><a href="https://codeforces.com/problemset/problem/263/A" target="_blank" rel="noopener noreferrer">CF 263 A</a></li>
+    <li><a href="https://codeforces.com/problemset/problem/112/A" target="_blank" rel="noopener noreferrer">CF 112 A</a></li>
+    <li><a href="https://codeforces.com/problemset/problem/281/A" target="_blank" rel="noopener noreferrer">CF 281 A</a></li>
+    <li><a href="https://codeforces.com/problemset/problem/110/A" target="_blank" rel="noopener noreferrer">CF 110 A</a></li>
+    <li><a href="https://codeforces.com/problemset/problem/1030/A" target="_blank" rel="noopener noreferrer">CF 1030 A</a></li>
+    <li><a href="https://codeforces.com/problemset/problem/977/A" target="_blank" rel="noopener noreferrer">CF 977 A</a></li>
+    <li><a href="https://codeforces.com/problemset/problem/1201/A" target="_blank" rel="noopener noreferrer">CF 1201 A</a></li>
+    <li><a href="https://codeforces.com/contest/1157/problem/A" target="_blank" rel="noopener noreferrer">CF 1157 A</a></li>
+    <li><a href="https://codeforces.com/problemset/problem/466/A" target="_blank" rel="noopener noreferrer">CF 466 A</a></li>
+    <li><a href="https://codeforces.com/problemset/problem/999/C" target="_blank" rel="noopener noreferrer">CF 999 C</a></li>
 </ul>
 </details>
 
